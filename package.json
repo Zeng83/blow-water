@@ -11,15 +11,16 @@
   "author": "zhao",
   "license": "ISC",
   "dependencies": {
+    "hapi": "16.4.1",
+    "inert": "4.2.0",
+    "path": "0.12.7",
     "qs": "^6.4.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.6",
     "redux": "^3.2.1",
     "redux-thunk": "^2.2.0",
-    "hapi": "16.4.1",
-    "inert": "4.2.0",
-    "path": "0.12.7"
+    "reselect": "^3.0.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
